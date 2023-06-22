@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Kirill. I’m 20</h1>
+<h1 align="center">Hi👋, my name is Kirill. I’m 20.</h1>
 <h3 align="center">A frontend developer from Belarus.</h3>
 
 - 👨‍💻 My projects are available at [https://react-portfolio-6hm.pages.dev](https://react-portfolio-6hm.pages.dev)
