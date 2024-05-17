@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, my name is Kirill. I’m 20.</h1>
-<h3 align="center">A frontend developer from Belarus.</h3>
+<h3 align="center">A frontend developer from Minsk. Now I live in Tbilisi.</h3>
 
 - 👨‍💻 My projects are available at [https://react-portfolio-6hm.pages.dev](https://react-portfolio-6hm.pages.dev)
 
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="www.facebook.com/bigboykirusha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bigboykirusha/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bigboykirusha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bigboykirusha/" height="30" width="40" /></a>
-<a href="https://t.me/bigboykirusha" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="https://www.instagram.com/bigboykirusha/" height="30" width="40" /></a>
+<a href="https://t.me/freebigboykirusha" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="https://www.instagram.com/bigboykirusha/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
