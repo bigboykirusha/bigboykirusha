@@ -1,5 +1,5 @@
-<h1 align="center">Hi👋, my name is Kirill. I’m 20.</h1>
-<h3 align="center">A frontend developer from Minsk. Now I live in Tbilisi.</h3>
+<h1 align="center">Hi👋, my name is Kirill. I’m 21.</h1>
+<h3 align="center">A Frontend developer from Minsk. Now I live in Tbilisi.</h3>
 
 - 👨‍💻 My projects are available at [https://bigboykirusha.dev](https://portfolio-omega-dun-62.vercel.app/)
 
